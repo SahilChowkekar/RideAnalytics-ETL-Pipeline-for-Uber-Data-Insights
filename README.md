@@ -13,7 +13,7 @@ The pipeline extracts raw ride data, transforms it into a structured format, and
 4. [Installation](#installation)
 5. [Data Model](#data-model)
 5. [Uber Dashboard](#uber-dashboard)
-5. [Data Pipeline and Dashboard Setup Guide](#data-Pipeline-and-dashboard-setup-guide)
+5. [Data Pipeline and Dashboard Setup Guide](#data-pipeline-and-dashboard-setup-guide)
 
 ## Features
 
@@ -41,8 +41,12 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights.git`
-2. Navigate to the project directory: `cd RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights`
+1. Clone the repository:
+    ```bash
+   `git clone https://github.com/yourusername/RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights.git`
+2. Navigate to the project directory:
+   ```bash
+   `cd RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights`
 
 
 
