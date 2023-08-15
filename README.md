@@ -43,10 +43,11 @@ Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
 1. Clone the repository:
     ```bash
-   `git clone https://github.com/yourusername/RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights.git`
+   git clone https://github.com/yourusername/RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights.git
 2. Navigate to the project directory:
    ```bash
-   `cd RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights`
+   cd RideAnalytics-ETL-Pipeline-for-Uber-Data-Insights
+   ```
 
 
 
