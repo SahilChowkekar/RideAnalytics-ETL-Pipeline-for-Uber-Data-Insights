@@ -13,7 +13,7 @@ The pipeline extracts raw ride data, transforms it into a structured format, and
 4. [Installation](#installation)
 5. [Data Model](#data-model)
 5. [Uber Dashboard](#uber-dashboard)
-5. [Data Pipeline and Dashboard Setup Guide](#data-Pipeline-and-dashboard-setup-guide)
+5. [Data Pipeline and Dashboard Setup Guide](#data-pipeline-and-dashboard-setup-guide)
 
 ## Features
 
