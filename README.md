@@ -13,7 +13,7 @@ The pipeline extracts raw ride data, transforms it into a structured format, and
 4. [Installation](#installation)
 5. [Data Model](#data-model)
 5. [Uber Dashboard](#uber-dashboard)
-5. [Data Pipeline and Dashboard Setup Guide](#data-Pipeline-and-dashboardsetup-guide)
+5. [Data Pipeline and Dashboard Setup Guide](#data-Pipeline-and-dashboard-setup-guide)
 
 ## Features
 
@@ -30,10 +30,10 @@ The pipeline extracts raw ride data, transforms it into a structured format, and
 ## Technology Used
 - Programming Language - Python
 - Google Cloud Platform
-- Google Storage
-- Compute Instance 
-- BigQuery
-- Looker Studio
+   - Google Storage
+   - Compute Instance 
+   - BigQuery
+   - Looker Studio
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
@@ -110,7 +110,7 @@ This guide will walk you through setting up a data pipeline and creating a dashb
 
 ## BigQuery Data Analysis
 
-1. Access Google BigQuery and enter the SQL query provided in the [BigQuery file](https://react-icons.github.io/react-icons/).
+1. Access Google BigQuery and enter the SQL query provided in the [BigQuery file](https://github.com/SahilChowkekar/RideAnalytics-ETL-Pipeline-of-Uber-Data-Insights/blob/master/BigQuery/uber-query.sql).
 
 2. Replace `'gothic-sled-395917.uber_data_engineering_yt.tbl_analytics'` with your project name and dataset name in the SQL query.
 
