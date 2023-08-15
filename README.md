@@ -1,4 +1,4 @@
-# RideAnalytics ETL Pipeline for Uber Data Insights
+# RideAnalytics ETL Pipeline of Uber Data Insights
 
 ## Overview
 
